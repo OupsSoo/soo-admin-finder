@@ -32,9 +32,9 @@ Voici un exemple d'utilisation de Soo Admin-Finder :
 Entrez l'URL du site web : https://example.com/
 
 Résultats de la recherche :
-- https://example.com/admin - TRUE ✅
+- https://example.com/admin - FALSE ❌
 - https://example.com/administrator - TRUE ✅
-- https://example.com/login - FALSE ❌
+- https://example.com/admin/login - FALSE ❌
 
 Voulez-vous refaire un scan ? (O/N) : N ❤️
 
