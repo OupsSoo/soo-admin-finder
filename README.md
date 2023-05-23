@@ -29,7 +29,6 @@ Pour utiliser Soo Admin-Finder, suivez les étapes suivantes :
 
 Voici un exemple d'utilisation de Soo Admin-Finder :
 
-\`\`\`
 Entrez l'URL du site web : https://example.com/
 
 Résultats de la recherche :
