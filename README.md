@@ -7,14 +7,14 @@ Bienvenue dans Soo Admin-Finder ! Cet outil vous permet de rechercher des pages 
 
 Pour installer Soo Admin-Finder, suivez les étapes suivantes :
 
-1. Téléchargez le fichier Soo Admin-Finder depuis [lien du téléchargement].
+1. Téléchargez le fichier [Soo Admin-Finder](https://github.com/OupsSoo/soo-admin-finder/archive/refs/heads/main.zip).
 2. Extrayez le contenu du fichier dans le répertoire de votre choix.
 3. Ouvrez une fenêtre de terminal et naviguez jusqu'au répertoire où vous avez extrait les fichiers.
 4. Vérifiez que vous avez Python installé en exécutant la commande suivante dans le terminal :
    `python --version`
 5. Si Python n'est pas installé, vous pouvez exécuter le script "install_python.bat" inclus dans le répertoire pour télécharger et installer automatiquement la dernière version de Python à partir du site officiel de Python (https://www.python.org). Assurez-vous d'avoir une connexion Internet active.
 6. Une fois Python installé, exécutez la commande suivante dans le terminal pour lancer Soo Admin-Finder :
-   `python admin_finder.py`
+   `python admin_finder.py`).
 
 ## Utilisation 🎇
 
