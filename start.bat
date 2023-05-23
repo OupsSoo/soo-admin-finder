@@ -1,1 +1,1 @@
-start main.py
+start admin_finder.py
