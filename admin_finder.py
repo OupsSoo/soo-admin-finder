@@ -2,7 +2,7 @@ from pystyle import *
 import os
 import subprocess
 import requests
-from colorama import *
+from colorama import Fore, init
 import time
 import webbrowser
 
@@ -34,10 +34,6 @@ print(f"""{Fore.WHITE}
 Bienvenue !
 
 """)
-
-import requests
-from colorama import Fore, init
-import time
 
 init(autoreset=True)  
 
