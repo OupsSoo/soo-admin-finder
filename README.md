@@ -34,7 +34,7 @@ Entrez l'URL du site web : https://example.com/
 Résultats de la recherche :
 - https://example.com/admin - FALSE ❌
 - https://example.com/administrator - TRUE ✅
-- https://example.com/admin/login - FALSE ❌
+- https://example.com/adm - FALSE ❌
 
 Voulez-vous refaire un scan ? (O/N) : N ❤️
 
