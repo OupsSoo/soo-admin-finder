@@ -1,0 +1,7 @@
+pystyle
+os
+subprocess
+requests
+colorama 
+time
+webbrowser
