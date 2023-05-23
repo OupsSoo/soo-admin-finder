@@ -48,7 +48,7 @@ Ce projet a été développé par Soo Web.
 
 N'hésitez pas à me contacter si vous avez des questions ou des suggestions :
 
-- Email : soo1337@proton.me
+- Email : sooweb@kissfans.com
 - Twitter : @OupsSoo
 - GitHub : OupsSoo
 
